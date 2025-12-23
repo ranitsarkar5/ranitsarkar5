@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ranit_s_0005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranit_s_0005" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ranitsarkar0005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ranitsarkar0005/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sranit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sranit" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ranit05s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ranit05s/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ranitsarkar0005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranitsarkar0005" height="30" width="40" /></a>
+<a href="https://kaggle.com/sranit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sranit" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ranit05s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranit05s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

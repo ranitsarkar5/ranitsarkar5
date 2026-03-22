@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Ranit Sarkar 👋 </h1>
-<h3 align="center">A passionate full stack developer from India.......</h3>
+<h3 align="center">A passionate full stack developer from India .......</h3>
 
 -----
 
